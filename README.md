@@ -1,4 +1,4 @@
-# scrapy-study-project
+# scrapy-project
 
 Учебный проект по библиотеке `scrapy` для Python.
 
